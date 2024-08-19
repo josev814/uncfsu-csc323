@@ -28,7 +28,7 @@ You can then open your browser to [http://localhost:8888](http://localhost:8888)
 
 When looking at Docker Desktop you will now see the containers running as well
 
-![Running Images](image.png)
+![Running Images](BuildTools/image.png)
 
 ### Stop containers
 If you want to stop the containers, but plan on going back to use them later
