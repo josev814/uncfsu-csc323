@@ -1,4 +1,4 @@
-# POSTEGRES Server with PGAdmin
+# POSTGRES Server with PGAdmin
 
 ## Requirements
 - [Docker Desktop](https://docs.docker.com/desktop/install/windows-install/)
